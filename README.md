@@ -3,4 +3,4 @@ MMMM
 Simple Project
 DEGİSIKLİK -----aaaa
 
-DİFTOOL DEGİSIKLİK, ve branches
+I hope this isnt much problem
