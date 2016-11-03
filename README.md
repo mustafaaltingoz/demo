@@ -1,7 +1,7 @@
 #Demo Project README
 MMMM
 Simple Project
-DEGİSIKLİK -----aaaa
+DEGİSIKLİK -----aaa
 
-this is bound to cause
+Just someting
 
